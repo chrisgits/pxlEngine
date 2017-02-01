@@ -1,0 +1,24 @@
+body {
+  font-size: 20px;
+  background-color: #3e3e3e;
+  font-family: 'Helvetica-Neue', sans-serif;
+}
+
+.content {
+  padding: 1.5em;
+  text-align: center;
+}
+h1 {
+  font-size: 1.5em;
+  color: white;
+}
+
+p {
+  color: rgb(2, 82, 182);
+  font-size: 1.3em;
+}
+
+h2 > a {
+  color: #e48200;
+
+}
