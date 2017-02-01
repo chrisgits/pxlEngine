@@ -14,11 +14,11 @@ h1 {
 }
 
 p {
-  color: rgb(2, 82, 182);
+  color: #da8d1d;
   font-size: 1.3em;
 }
 
-h2 > a {
+a {
   color: #e48200;
 
 }
